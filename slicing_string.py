@@ -20,5 +20,4 @@ print(name[1:7:3]) # here it will take the jump of 3 elements
 print(name[:7]) # it will go till 7th index 
 print(name[0:]) # here sting will be printed as it is
 
-print(name[0:]) # it will print the string as it is
 
