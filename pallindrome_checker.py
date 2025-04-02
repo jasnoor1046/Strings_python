@@ -9,6 +9,7 @@ def is_pallindrome(s):
 # testing the function by taking the input
 s = input("Enter a string to check if it's pallindrome: ")
 
+# applying conditions to check
 if is_pallindrome(s):
     print(f"{s} is pallindrome.")
 
